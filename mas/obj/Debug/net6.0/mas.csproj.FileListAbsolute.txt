@@ -1,0 +1,15 @@
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\bin\Debug\net6.0\mas.exe
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\bin\Debug\net6.0\mas.deps.json
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\bin\Debug\net6.0\mas.runtimeconfig.json
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\bin\Debug\net6.0\mas.dll
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\bin\Debug\net6.0\mas.pdb
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.csproj.AssemblyReference.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.AssemblyInfoInputs.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.AssemblyInfo.cs
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.csproj.CoreCompileInputs.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.dll
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\refint\mas.dll
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.pdb
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\mas.genruntimeconfig.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\mas\obj\Debug\net6.0\ref\mas.dll
